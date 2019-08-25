@@ -2,6 +2,8 @@ StartChar: comma
 Encoding: 44 44 7
 Width: 152
 Flags: W
+HStem: -65 192
+VStem: 24 104
 LayerCount: 2
 Fore
 SplineSet

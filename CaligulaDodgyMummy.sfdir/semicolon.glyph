@@ -2,6 +2,7 @@ StartChar: semicolon
 Encoding: 59 59 20
 Width: 129
 Flags: W
+VStem: 15 108
 LayerCount: 2
 Fore
 SplineSet

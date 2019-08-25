@@ -2,6 +2,7 @@ StartChar: M
 Encoding: 77 77 33
 Width: 898
 Flags: W
+HStem: 10 18<722.778 738.681> 17 11<2.23926 14 729 736> 780 20G<724.667 759> 780 20G<724.667 759>
 TtInstrs:
 NPUSHB
  59

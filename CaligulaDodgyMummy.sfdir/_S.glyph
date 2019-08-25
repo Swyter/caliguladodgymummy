@@ -2,6 +2,8 @@ StartChar: S
 Encoding: 83 83 39
 Width: 474
 Flags: W
+HStem: 0 27<135.802 187 197 293.938> 751 24<165.195 318.348>
+VStem: 18 62<548.25 661.898>
 TtInstrs:
 NPUSHB
  29

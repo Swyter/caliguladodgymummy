@@ -2,6 +2,8 @@ StartChar: ampersand
 Encoding: 38 38 5
 Width: 912
 Flags: W
+HStem: 0 39<203.438 263 273.938 393.312> 510 14<786 813> 774 18<280.829 358.68>
+VStem: 51 78<109.566 247.669> 419 58<633.764 724.648>
 LayerCount: 2
 Fore
 SplineSet

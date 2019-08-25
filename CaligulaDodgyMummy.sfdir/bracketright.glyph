@@ -1,7 +1,9 @@
 StartChar: bracketright
-Encoding: 93 93 84
+Encoding: 93 93 83
 Width: 463
 Flags: W
+HStem: -44 47<42.4681 202.154> 800 28<27 197.097>
+VStem: 212 76<530.338 746.846>
 LayerCount: 2
 Fore
 Refer: 77 91 S -1 0 0 1 426 0 2

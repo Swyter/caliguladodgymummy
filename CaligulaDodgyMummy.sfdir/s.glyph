@@ -2,6 +2,8 @@ StartChar: s
 Encoding: 115 115 65
 Width: 471
 Flags: W
+HStem: 0 27<135.802 187 197 293.938> 751 24<165.195 318.348>
+VStem: 18 62<548.25 661.898>
 LayerCount: 2
 Fore
 Refer: 39 83 N 1 0 0 1 0 0 2

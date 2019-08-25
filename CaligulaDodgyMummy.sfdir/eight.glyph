@@ -2,6 +2,7 @@ StartChar: eight
 Encoding: 56 56 17
 Width: 552
 Flags: W
+VStem: 36 63<539.241 649.34> 466 65<140.467 269.131>
 TtInstrs:
 NPUSHB
  47

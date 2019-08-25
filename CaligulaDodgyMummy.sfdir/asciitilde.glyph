@@ -1,7 +1,8 @@
 StartChar: asciitilde
-Encoding: 126 126 91
+Encoding: 126 126 89
 Width: 522
 Flags: W
+VStem: 482 19.5<663.591 671.074>
 LayerCount: 2
 Fore
 SplineSet
@@ -14,4 +15,5 @@ SplineSet
  89 706.360351562 89 706.360351562 21.5 600.5 c 0,12,13
  11 625.780273438 l 0,0,1
 EndSplineSet
+Validated: 524321
 EndChar

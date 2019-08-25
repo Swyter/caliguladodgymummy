@@ -2,6 +2,8 @@ StartChar: six
 Encoding: 54 54 15
 Width: 631
 Flags: W
+HStem: 3 29<258.662 302 315 396.281> 436 34<322 449.694> 754 23<380.482 457>
+VStem: 527 67<169.918 352.734>
 TtInstrs:
 NPUSHB
  35

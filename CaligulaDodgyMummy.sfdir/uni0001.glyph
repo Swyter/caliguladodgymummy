@@ -2,6 +2,8 @@ StartChar: uni0001
 Encoding: 1 1 80
 Width: 338
 Flags: W
+HStem: 21 21G<158 187> 772 20G<9 43 144.136 183.272> 772 20G<9 43 144.136 183.272>
+VStem: 65.7275 64.5449<194.4 618.6>
 LayerCount: 2
 Fore
 SplineSet
@@ -37,5 +39,5 @@ SplineSet
  158 25 l 5,38,39
  147 34 147 34 94.2724609375 30 c 6,0,1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar

@@ -2,6 +2,8 @@ StartChar: three
 Encoding: 51 51 12
 Width: 636
 Flags: W
+HStem: 23 26<211.185 376.674> 742 29<204.5 472>
+VStem: 519 85<201.708 331.1>
 TtInstrs:
 NPUSHB
  52

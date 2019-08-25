@@ -2,6 +2,8 @@ StartChar: bracketleft
 Encoding: 91 91 77
 Width: 463
 Flags: W
+HStem: -44 47<223.846 383.532> 800 28<228.903 399>
+VStem: 138 76<530.338 746.846>
 LayerCount: 2
 Fore
 SplineSet
@@ -37,5 +39,5 @@ SplineSet
  338 -14 338 -14 385 2 c 1,41,-1
  386 -46 l 1,0,-1
 EndSplineSet
-Validated: 524321
+Validated: 33
 EndChar

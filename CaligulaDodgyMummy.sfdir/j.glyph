@@ -2,6 +2,8 @@ StartChar: j
 Encoding: 106 106 56
 Width: 499
 Flags: W
+HStem: 20 26<168 249.909> 767 20G<273 358 273 358 358 473 358 473>
+VStem: 354 65<180 554> 358 68<322 682.332>
 LayerCount: 2
 Fore
 Refer: 30 74 N 1 0 0 1 0 0 2

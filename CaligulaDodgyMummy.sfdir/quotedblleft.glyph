@@ -2,6 +2,8 @@ StartChar: quotedblleft
 Encoding: 8220 8220 75
 Width: 289
 Flags: W
+HStem: 600 192
+VStem: 26 242
 TtInstrs:
 NPUSHB
  23

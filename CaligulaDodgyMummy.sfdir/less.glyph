@@ -1,5 +1,5 @@
 StartChar: less
-Encoding: 60 60 89
+Encoding: 60 60 87
 Width: 376
 Flags: W
 LayerCount: 2
@@ -39,4 +39,5 @@ SplineSet
  41.607421875 347.751953125 l 1,41,-1
  14.24609375 357.569335938 l 1,0,-1
 EndSplineSet
+Validated: 524289
 EndChar

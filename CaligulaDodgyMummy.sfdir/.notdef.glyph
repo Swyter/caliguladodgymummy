@@ -2,6 +2,8 @@ StartChar: .notdef
 Encoding: 65536 -1 0
 Width: 500
 Flags: W
+HStem: 0 63<125 375> 738 62<125 375>
+VStem: 63 62<63 738> 375 63<63 738>
 TtInstrs:
 NPUSHB
  33

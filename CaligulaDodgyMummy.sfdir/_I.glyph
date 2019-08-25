@@ -2,6 +2,8 @@ StartChar: I
 Encoding: 73 73 29
 Width: 227
 Flags: W
+HStem: 6 14<17 34> 759 17<203 207>
+VStem: 85 71<157.6 687.229>
 TtInstrs:
 NPUSHB
  46

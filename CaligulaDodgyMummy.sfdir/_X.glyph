@@ -2,6 +2,7 @@ StartChar: X
 Encoding: 88 88 44
 Width: 796
 Flags: W
+HStem: 21 13.5<12 36.75 559.196 574.5> 28 11<12 23> 770 20G<169 241.667 576 695> 770 20G<169 241.667 576 695>
 TtInstrs:
 NPUSHB
  61

@@ -2,6 +2,7 @@ StartChar: V
 Encoding: 86 86 42
 Width: 872
 Flags: W
+HStem: 766 20G<144.5 184.903> 766 20G<144.5 184.903> 786 14<830 856>
 TtInstrs:
 NPUSHB
  36
