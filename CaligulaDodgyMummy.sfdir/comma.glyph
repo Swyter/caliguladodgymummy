@@ -1,0 +1,18 @@
+StartChar: comma
+Encoding: 44 44 7
+Width: 152
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+128 64 m 1,0,1
+ 122 55 122 55 98 -4 c 0,2,3
+ 76 -57 76 -57 67 -65 c 1,4,5
+ 81 -29 81 -29 81 -10 c 0,6,7
+ 81 4 81 4 75 12 c 0,8,9
+ 46 41 46 41 24 61 c 1,10,11
+ 67 92 67 92 84 127 c 1,12,13
+ 97 88 97 88 128 64 c 1,0,1
+EndSplineSet
+Validated: 1
+EndChar

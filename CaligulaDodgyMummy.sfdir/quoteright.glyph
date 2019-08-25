@@ -1,0 +1,18 @@
+StartChar: quoteright
+Encoding: 8217 8217 74
+Width: 159
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+132 731 m 1,0,1
+ 125 722 125 722 101 663 c 0,2,3
+ 80 610 80 610 71 602 c 1,4,5
+ 84 638 84 638 84 657 c 0,6,7
+ 84 671 84 671 79 679 c 0,8,9
+ 49 708 49 708 28 728 c 1,10,11
+ 71 759 71 759 88 794 c 1,12,13
+ 100 755 100 755 132 731 c 1,0,1
+EndSplineSet
+Validated: 1
+EndChar
