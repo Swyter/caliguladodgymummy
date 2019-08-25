@@ -4,7 +4,7 @@ FullName: CaligulaDodgyMummy
 FamilyName: CaligulaDodgyMummy
 Weight: Book
 Copyright: (C) 1997 Zetafonts. This font is freeware. No guarantee, warranty or anything else is express or implied. Do what thou wilt shall be the whole of the law.
-Version: 0.9b
+Version: 0.9c
 ItalicAngle: 0
 UnderlinePosition: -143
 UnderlineWidth: 20
@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 876754837
-ModificationTime: 1566719733
+ModificationTime: 1566727111
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -170,7 +170,8 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 37 37 14
+WidthSeparation: 150
+WinInfo: 0 37 14
 BeginPrivate: 0
 EndPrivate
 EndSplineFont

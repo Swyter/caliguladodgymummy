@@ -2,83 +2,6 @@ StartChar: s
 Encoding: 115 115 65
 Width: 474
 Flags: W
-TtInstrs:
-NPUSHB
- 29
- 1
- 59
- 59
- 64
- 60
- 2
- 43
- 13
- 42
- 12
- 24
- 2
- 2
- 53
- 2
- 31
- 47
- 5
- 37
- 19
- 5
- 8
- 37
- 1
- 8
- 0
- 1
- 31
- 70
-SROUND
-MDAP[rnd]
-SHZ[rp1]
-RTG
-SVTCA[y-axis]
-MIAP[rnd]
-MIAP[rnd]
-SRP0
-MIRP[rp0,min,rnd,black]
-SRP0
-MIRP[rp0,min,rnd,black]
-SVTCA[x-axis]
-MDAP[rnd]
-MIRP[rp0,min,rnd,black]
-MDAP[rnd]
-MIRP[rp0,min,rnd,black]
-MDAP[no-rnd]
-MDAP[no-rnd]
-SVTCA[y-axis]
-MDAP[no-rnd]
-MDAP[no-rnd]
-IUP[x]
-IUP[y]
-SVTCA[x-axis]
-MD[grid]
-ROUND[Grey]
-PUSHW_2
- 31
- 59
-MD[grid]
-ROUND[Grey]
-SUB
-PUSHB_1
- 64
-GT
-IF
-SHPIX
-SRP1
-SHZ[rp1]
-PUSHW_2
- 59
- -64
-SHPIX
-EIF
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
@@ -119,5 +42,4 @@ SplineSet
  149 502 149 502 276 435 c 0,57,58
  380 380 380 380 432 314 c 1,0,1
 EndSplineSet
-Validated: 33
 EndChar
